@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: dauphine2016-App1
+  host: dauphine2016-App1
+  disk_quota: 1024M
